@@ -2,6 +2,7 @@
 .idea/
 *.iml
 out/
+build/
 src/META-INF/
 /levels
 /PROFILE
